@@ -1,4 +1,4 @@
-Simple Calculator
+# Simple Calculator
 
 A basic calculator built using HTML and CSS with JavaScript functionality embedded in the HTML file. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, division, percentage calculations, and decimal operations.
 
